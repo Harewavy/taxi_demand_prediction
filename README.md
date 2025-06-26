@@ -1,11 +1,11 @@
-# 🚕 Taxi Demand Forecasting (Time Series)
+# Taxi Demand Forecasting (Time Series)
 
 This machine learning project focuses on forecasting hourly taxi demand at airport locations for **Sweet Lift Taxi**.  
 The goal is to build a regression model that predicts the number of taxi orders for the next hour, helping the company attract more drivers during peak times.
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - `taxi.csv` — Time-indexed historical data of taxi orders
 
@@ -14,7 +14,7 @@ The goal is to build a regression model that predicts the number of taxi orders 
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 
 - Python
 - pandas, numpy
@@ -24,7 +24,7 @@ The goal is to build a regression model that predicts the number of taxi orders 
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 ### 1. Data Preparation
 - Resampled the dataset to 1-hour intervals
@@ -45,7 +45,7 @@ The goal is to build a regression model that predicts the number of taxi orders 
 
 ---
 
-## ✅ Key Results
+## Key Results
 
 - The final model achieved RMSE ≤ 48, meeting project success criteria
 - Lag features significantly improved prediction quality
@@ -53,7 +53,7 @@ The goal is to build a regression model that predicts the number of taxi orders 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
 2. Make sure `taxi.csv` is in the same directory as the notebook
@@ -62,7 +62,7 @@ The goal is to build a regression model that predicts the number of taxi orders 
 
 ---
 
-## 🔗 Links
+## Links
 
 - [My LinkedIn](https://www.linkedin.com/in/ozturkkenes)
 - [My GitHub](https://github.com/Harewavy)
